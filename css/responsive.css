@@ -80,7 +80,7 @@ body{ overflow-x: none}
 
 .main-menu ul li.active::after,.main-menu ul li:hover::after{ width:50%}
 
-.footer{ position:static; padding:20px 0}
+.footer{ position:relative; padding:20px 0}
 
 .inner-left,.inner-right,.wrapper-inner{ float:none;max-width:100%}
 
